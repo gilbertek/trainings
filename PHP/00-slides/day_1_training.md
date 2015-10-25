@@ -11,9 +11,8 @@ We learn about variables, types, data structures, OOP and Community standards fo
 
 #### Data types: Collections & Functions
 [Arrays](../05-arrays/readme.md) |
-[Functions](../05-functions/readme.md) |
-[Files & Forms](../05-files_forms/readme.md)
+[Functions](../06-functions/readme.md) |
+[Files & Forms](../07-files_forms/readme.md)
 
 #### OOP
-[Object Oriented Concepts](../05-oop_concepts/readme.md)
-
+[Object Oriented Concepts](../08-oop_concepts/readme.md)
